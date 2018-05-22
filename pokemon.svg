@@ -5,7 +5,7 @@
     <text class="loading" x="175" y="775" >Loading...</text>
     <style>
         .pokeBall{
-            transform-origin: center center;
+            transform-origin: 510px 570px;
             animation:swing-pokeball 1s steps(20) infinite;   
         }
 
